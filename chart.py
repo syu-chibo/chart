@@ -11,11 +11,8 @@ import datetime as dt
 import numpy as np
 import mplfinance as mpf
 import time
-import matplotlib.pyplot as plt
-import matplotlib.patches as mpatches
 import requests
-import cv2
-import urllib.request, urllib.error
+import urllib.request
 from bs4 import BeautifulSoup
 import re
 
